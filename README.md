@@ -13,6 +13,7 @@
 | ----------- | ----------- |
 | Intel Core I3-1005G1 | 64 Bits|
 | Velocidade Base | 1,19GHz |
+| RAM | 7,8 GB |
 
 ---
 
