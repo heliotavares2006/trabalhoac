@@ -3,4 +3,4 @@
 
 ---
 
-![alt text]('[image.jpg](https://valid.x86.fr/cache/screenshot/qihw9x.png)https://valid.x86.fr/cache/screenshot/qihw9x.png')
+![]((https://valid.x86.fr/cache/screenshot/qihw9x.png)https://valid.x86.fr/cache/screenshot/qihw9x.png)
